@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(36, 17, 5);
+    color:rgb(171, 171, 6);
+    font-family: "High TOwer Text";
+}
+.container{
+    display :flex;
+    justify-content: space-between;
+}
